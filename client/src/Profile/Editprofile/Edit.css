@@ -1,0 +1,24 @@
+.blocinfo {
+  margin-top: 40px;
+  margin-left: -23px;
+  background-color: #fff;
+  height: 475px;
+}
+.formedit {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.inputname {
+  width: 399px;
+  height: 37px;
+  box-shadow: 8px 0px 8px 1px #898989;
+
+}
+.btnedit {
+  margin-left: 423px;
+  width: 150px;
+  height: 40px;
+}
